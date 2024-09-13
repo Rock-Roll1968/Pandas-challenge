@@ -8,7 +8,7 @@
 ## Description
 Charter/Public Passing Rate Comparison with Cost Analysis 
 
-![app_image](table.png)
+![app_image](schooltable.png)
 
 ## Table of Contents
 - [Installation](#installation)
